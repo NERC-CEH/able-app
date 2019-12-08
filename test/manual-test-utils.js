@@ -39,3 +39,5 @@ testing.GPS = {
 };
 
 window.testing = testing;
+
+export default testing;
